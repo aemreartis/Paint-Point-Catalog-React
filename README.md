@@ -11,14 +11,14 @@ You will also see any lint errors in the console.
 
 Eklenecekler:
 
--Kullanıcı kayıt olma ve giriş yapmak için db bağlantıları. 
--İkonlara tıklandığında renk değiştirmesi, databasedeki verinin güncellenmesi. 
--Detaylı proje sayfasına comment ekleme kısmının eklenmesi, yazılan commentlerin database bağlantısının yapılması. 
--Linklerin hedeflerinin düzenlenmesi,sayfa numaralarının ve kart id'lerinin pathe eklenmesi. 
--Filtrelemenin işlevli hale gelmesi.
--Send your project modal ın boyutlarının düzenlenmesi, düğmelerin düzenlenmesi, arka plana blur eklenmesi, 6. adımın düzenlenmesi, oluşturulan yeni projenin database e eklenmesi
-. -Kart boyutlarının yazılarının uzunluğuna göre değişiminin sınırlandırılması. 
--Fazla bitişik görünen yerlerin düzeltilmesi -Footerdaki bazı kaymaların düzeltilmesi.
--Paging kısmında "Go to" işlevinin eklenmesi. 
--Image yazılarının etiket kısmına sığdırılması. 
--Proje özetlerinin ve detay sayfalarının bilgilerinin databaseden çekilmesi.
+-Kullanıcı kayıt olma ve giriş yapmak için db bağlantıları. <br/>
+-İkonlara tıklandığında renk değiştirmesi, databasedeki verinin güncellenmesi. <br/>
+-Detaylı proje sayfasına comment ekleme kısmının eklenmesi, yazılan commentlerin database bağlantısının yapılması. <br/>
+-Linklerin hedeflerinin düzenlenmesi,sayfa numaralarının ve kart id'lerinin pathe eklenmesi. <br/>
+-Filtrelemenin işlevli hale gelmesi.<br/>
+-Send your project modal ın boyutlarının düzenlenmesi, düğmelerin düzenlenmesi, arka plana blur eklenmesi, 6. adımın düzenlenmesi, oluşturulan yeni projenin database e eklenmesi<br/>
+. -Kart boyutlarının yazılarının uzunluğuna göre değişiminin sınırlandırılması. <br/>
+-Fazla bitişik görünen yerlerin düzeltilmesi -Footerdaki bazı kaymaların düzeltilmesi.<br/>
+-Paging kısmında "Go to" işlevinin eklenmesi. <br/>
+-Image yazılarının etiket kısmına sığdırılması. <br/>
+-Proje özetlerinin ve detay sayfalarının bilgilerinin databaseden çekilmesi.<br/>
