@@ -1,0 +1,141 @@
+body {
+  background-color: #FAFAFA;
+  font-family: "Roboto";
+  color: #404040;
+
+}
+
+h7 {
+
+  font-weight: bold;
+
+}
+p{
+  font-size: 15px;
+  color: #707070;
+}
+
+.wrap-text{
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 7; /* kaç satırla sınırlayacağımızı yazıyoruz */
+  -webkit-box-orient: vertical;
+}
+.dot {
+  height: 10px;
+  width: 10px;
+  background-image: linear-gradient(#6294A2, #58C3DD);
+  border-radius: 50%;
+  display: inline-block;
+}
+.navbarHead {
+  background-color: #FCFCFC;
+  font-size: 16px;
+  text-align: center;
+}
+
+
+#navbarHeader{
+  font-family: 'Roboto ', sans-serif;
+  font-weight: bold;
+  font-size: 22px;
+  padding-left: 301px;
+  color: #404040;
+}
+
+
+#navbarText{
+
+  font-family: 'Roboto Light';
+  font-size: 16px;
+  float: right;
+}
+.btn-grad {background-image: linear-gradient(to right, #3B79E0, #58C3DD)}
+
+.card{
+  border: none;
+
+}
+
+.card-img{
+  object-fit: cover;
+}
+
+.card-img-top {
+  height: 11vw;
+  width: 100%;
+  object-fit: cover;
+}
+.sub-navbar{
+  background: #FFFFFF;
+}
+.card-footer{
+
+  background: #E6E6E6;
+}
+
+
+.border-left{
+  size: 1px;
+}
+.card-footer{
+  background: #E6E6E6;
+  line-height: 10px;
+}
+
+textarea{
+
+  resize: none;
+
+}
+
+.dropbtn {
+  background-color: #FAFAFA;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #FAFAFA;
+}
+
+#myInput {
+  box-sizing: border-box;
+  background-position: 14px 12px;
+  background-repeat: no-repeat;
+  font-size: 16px;
+  padding: 14px 20px 12px 45px;
+  border: none;
+  border-bottom: 1px solid #ddd;
+}
+
+#myInput:focus {outline: 3px solid #ddd;}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f6f6f6;
+  min-width: 230px;
+  overflow: auto;
+  border: 1px solid #ddd;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown a:hover {background-color: #ddd;}
+
+.show {display: block;}
