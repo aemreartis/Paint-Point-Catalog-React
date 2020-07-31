@@ -10,7 +10,7 @@ The page will reload if you make edits.
 You will also see any lint errors in the console.
 
 Eklenecekler:
-
+- Component yapısı düzenlenecek.<br/>
 -Kullanıcı kayıt olma ve giriş yapmak için db bağlantıları. <br/>
 -İkonlara tıklandığında renk değiştirmesi, databasedeki verinin güncellenmesi. <br/>
 -Detaylı proje sayfasına comment ekleme kısmının eklenmesi, yazılan commentlerin database bağlantısının yapılması. <br/>
